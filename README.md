@@ -8,8 +8,8 @@
   
 - 👨‍💻 Meu portfólio (atualmente desatualizado) [https://portfolio-devrafael112.netlify.app/](https://portfolio-devrafael112.netlify.app/)
 
-- 📫 Contato **rafaellf112@gmail.com**
-
+<!-- - 📫 Contato **rafaellf112@gmail.com**
+--->
 <h3 align="left">Me encontre também em:</h3>
 
 <p align="left">
