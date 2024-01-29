@@ -5,9 +5,9 @@
 
 - 🌱 Atualmente estou aprendendo **Python, SQL, Power BI, Excel, Machine Learning**
 
-- 👨‍💻 Meu portfólio (atualmente desatualizado) [https://portfolio-devrafael112.netlify.app/](https://portfolio-devrafael112.netlify.app/)
-
 - 💬 Fique a vontade para me perguntar sobre **SQL**
+- 
+- 👨‍💻 Meu portfólio (atualmente desatualizado) [https://portfolio-devrafael112.netlify.app/](https://portfolio-devrafael112.netlify.app/)
 
 - 📫 Contato **rafaellf112@gmail.com**
 
